@@ -18,6 +18,8 @@ public class RemoveDups {
         }
     }
     public static void removeDuplicates2(Node n){
+        //O(n^2) time
+        //O(1) space
         Node current = n;
         while(current != null){
             Node runner = current;

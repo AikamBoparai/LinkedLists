@@ -18,4 +18,5 @@ Remove the duplicates from a linkedlist.
 ### 6. ReturnKthToLast
 Return the length - k node in a linked list
 
-### 7. Sum two linkedlists given that each node represents a digit.
+### 7. Sum Lists
+Add two linkedlists given that each node represents a digit in the number
